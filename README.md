@@ -18,4 +18,9 @@ Ps: I wished to choose the most recent data but unfortunately there were some se
 
 ![2018](https://user-images.githubusercontent.com/67460572/97115189-54974180-1730-11eb-9fa9-3b4a166034e8.png)
 
+**For instance in year 2018 , Jan - March has only daily data while the rest are in hourly. 
+Oct data are actually Sept data (That is a missing in Oct and duplicate at Sept)**
+
 ![20102013](https://user-images.githubusercontent.com/67460572/97115191-56f99b80-1730-11eb-8ca4-7efa97718dec.png)
+
+** The data in 2010-2013 has better data quality **
