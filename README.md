@@ -16,3 +16,6 @@ I am going to take 4 years of data from 2010-2013, with the objectives of:
 
 Ps: I wished to choose the most recent data but unfortunately there were some serious missing data in the nearest year.
 
+![2018](https://user-images.githubusercontent.com/67460572/97115189-54974180-1730-11eb-9fa9-3b4a166034e8.png)
+
+![20102013](https://user-images.githubusercontent.com/67460572/97115191-56f99b80-1730-11eb-8ca4-7efa97718dec.png)
