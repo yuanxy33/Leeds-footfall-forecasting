@@ -9,7 +9,7 @@ It has many of my great memories in this beautiful city. So yeah, my next projec
 ### Data Set:
 https://data.gov.uk/dataset/dec652ac-2c1c-4494-bf90-87dbdf790fec/leeds-city-centre-footfall-data
 
-The **Leeds city centre footfall data set** consists of hourly footfall data around the city centre captured by 7 cameras.
+The **Leeds city centre footfall data set** consists of hourly footfall data around the city centre captured by 6 cameras.
 I am going to take 5 years of data from 2015-2019, with the objectives of:
 1. Doing some visualisation and analysis on the footfall data using Tableau
 2. Apply time-series forecasting for the prediction.
