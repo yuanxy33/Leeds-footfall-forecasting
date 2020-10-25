@@ -4,7 +4,7 @@ Self-initiate project starts 25 Oct 2020
 
 Background: 
 Leeds is a city in UK where my university is located where I spent a year pursuing my Msc degree.
-It has many of my great memories in this beautiful city. So yeah, my next project is going to be some study of the city.
+It has many of my great memories in this beautiful city. So yeah, my next project is going to be doing some studies of the city.
 
 ### Data Set:
 https://data.gov.uk/dataset/dec652ac-2c1c-4494-bf90-87dbdf790fec/leeds-city-centre-footfall-data
