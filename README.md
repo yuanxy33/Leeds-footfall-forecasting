@@ -1,6 +1,5 @@
 # Leeds-footfall-forecasting
 
-Self-initiate project starts 25 Oct 2020
 
 Background: 
 Leeds is a city in UK where my university is located where I spent a year pursuing my Msc degree.
